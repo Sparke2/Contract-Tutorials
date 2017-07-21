@@ -54,4 +54,13 @@ Solidity - компилируемый язык программирования.
 
 В качестве веб-интерфейса к полному узлу будем использовать MyEtherWallet: https://myetherwallet.com/
 
-![alt text](https://github.com/Sparke2/Contract-Tutorials/blob/master/MEW_1.jpg)
+![alt text](https://github.com/Sparke2/Contract-Tutorials/blob/master/Wallet_1.jpg)
+
+Для начала убедимся что мы находимся в тестнете Rinkeby. Для этого в правом верхнем углу выберите название сети и установите Rinkeby (не важно кто является провайдером ноды - Infura, Etherscan или кто-то еще).
+
+![alt text](https://github.com/Sparke2/Contract-Tutorials/blob/master/Wallet_2.jpg)
+
+После того как выбрали полную ноду тестнета переключитесь на вкладку **Contracts**. Отсюда мы можем взаимодействовать с уже имеющимися контрактами или создавать новые.
+
+![alt text](https://github.com/Sparke2/Contract-Tutorials/blob/master/Wallet_2.jpg)
+
