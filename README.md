@@ -1,1 +1,1 @@
-# Contract-Tutorials
+# Руководство по контрактам на Solidity для начинающих.
