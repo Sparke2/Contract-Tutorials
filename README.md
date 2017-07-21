@@ -62,5 +62,5 @@ Solidity - компилируемый язык программирования.
 
 После того как выбрали полную ноду тестнета переключитесь на вкладку **Contracts**. Отсюда мы можем взаимодействовать с уже имеющимися контрактами или создавать новые.
 
-![alt text](https://github.com/Sparke2/Contract-Tutorials/blob/master/Wallet_2.jpg)
+![alt text](https://github.com/Sparke2/Contract-Tutorials/blob/master/Wallet_3.jpg)
 
