@@ -33,4 +33,4 @@ Solidity - компилируемый язык программирования.
 
 Если компилятор не выдал никаких критических ошибок, то теперь нам нужно получить **байткод** нашего смарт-контракта. Для этого переключитесь на вкладку **Contract** в Remix'e:
 
-![alt text](https://github.com/Sparke2/Contract-Tutorials/blob/master/Remix_4.jpg)
+![alt text](https://github.com/Sparke2/Contract-Tutorials/blob/master/Remix_4_.jpg)
