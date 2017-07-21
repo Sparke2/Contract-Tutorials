@@ -19,3 +19,7 @@ Solidity - компилируемый язык программирования.
 В нашем примере мы будем деплоить [этот смарт-контракт](https://github.com/Sparke2/Contract-Tutorials/blob/master/example.sol).
 
 ![alt text](https://github.com/Sparke2/Contract-Tutorials/blob/master/Remix_1.jpg)
+
+
+Знакомимся с Remix'ом:
+![alt text](https://github.com/Sparke2/Contract-Tutorials/blob/master/Remix_2.jpg)
