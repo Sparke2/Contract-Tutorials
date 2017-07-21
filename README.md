@@ -14,6 +14,8 @@
 
 Solidity - компилируемый язык программирования. Как следствие - вам понадобится компилятор. Чаще всего пользуются онлайн-компилятором Remix Solidity IDE(который разрабатывают Ethereum Foundation). Рекомендуем пользоваться компилятором версии `0.4.11+commit.68ef5810` т.к. последующие версии стабильными назвать сложно, в них и по сей день находят ошибки.
 
-https://remix.ethereum.org/#version=soljson-v0.4.11+commit.68ef5810.js
+Вот ссылка на Remix: https://remix.ethereum.org/#version=soljson-v0.4.11+commit.68ef5810.js
+
+В нашем примере мы будем деплоить [этот смарт-контракт](https://github.com/Sparke2/Contract-Tutorials/blob/master/example.sol).
 
 ![alt text](https://github.com/Sparke2/Contract-Tutorials/blob/master/Remix_1.jpg)
